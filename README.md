@@ -6,7 +6,7 @@ An interactive Sales Dashboard built in Tableau to visualize retail sales perfor
 
 ## Dashboard Preview
 
-![Sales Dashboard](Images/dashboard.png)
+![Sales Dashboard](Images/Dashboard.png)
 
 ---
 
